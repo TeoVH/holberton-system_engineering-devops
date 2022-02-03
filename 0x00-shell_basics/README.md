@@ -1,1 +1,2 @@
-prints the absolute path name of the current working directory
+pwd = prints the path of the current working directory
+ls = list the current directory
